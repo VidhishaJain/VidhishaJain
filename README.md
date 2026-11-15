@@ -12,6 +12,10 @@ I work in tech strategy and AI at EY-Parthenon in Gurugram, India. Outside work 
 
 My blog, [vidhishajain.github.io](https://vidhishajain.github.io), where I take positions on AI governance questions. Latest: [who should pay when stolen AI API keys run up $740,000](https://vidhishajain.github.io/2026/11/who-pays-when-an-ai-key-is-stolen/).
 
+## Off the laptop
+
+Formerly a domestic cricketer for Rajasthan's women's teams. These days it's outdoorsy things, running, and a Spanish streak on Duolingo.
+
 ## Find me
 
 [LinkedIn](https://www.linkedin.com/in/vidhishajain1805)
