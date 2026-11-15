@@ -14,7 +14,10 @@ My blog, [vidhishajain.github.io](https://vidhishajain.github.io), where I take 
 
 ## Off the laptop
 
-Formerly a domestic cricketer for Rajasthan's women's teams. These days it's outdoorsy things, running, and a Spanish streak on Duolingo.
+- Formerly a domestic cricketer for Rajasthan's women's teams. I left home for boarding school at nine, which explains the independent streak.
+- I run; the longest so far is a half marathon. The next certification I want isn't in AI, it's scuba.
+- Currently keeping a Spanish streak alive on Duolingo, and binging more series than I'd like to admit.
+- Dan Brown's Origin is what first pulled me toward AI. If you haven't read it, you should.
 
 ## Find me
 
